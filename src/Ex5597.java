@@ -11,7 +11,7 @@ public class Ex5597 {
         int list = 28;
 
         int[] ls = new int[a];
-        int[] Mm = new int[a];
+        int[] Mm = new int[a-list];
         int num = 0;
 
         for (int i = 0; i < a; i++) {
@@ -46,19 +46,11 @@ public class Ex5597 {
 
         }
 
-        int[] last = new int[a-list];
-
-        for (int o = 0 ; o < a-list ; o++) {
-
-            last[o] = Mm[o];
-
-        }
-
-        Arrays.sort(last);
+        Arrays.sort(Mm);
 
         for (int p = 0 ; p < a-list ; p++) {
 
-            System.out.println(last[p]);
+            System.out.println(Mm[p]);
 
         }
 
