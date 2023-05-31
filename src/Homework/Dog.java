@@ -1,11 +1,9 @@
 package Homework;
-
 public class Dog {
     private String name, kind;
     private int age;
     public Dog(){}
     public Dog(String name, String kind, int age) {
-
         this.name = name;
         this.kind = kind;
         this.age = age;

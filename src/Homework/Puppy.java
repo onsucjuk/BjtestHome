@@ -2,7 +2,7 @@ package Homework;
 public class Puppy extends Dog {
 
     public Puppy(String name, String kind, int age) {
-        super(name,kind,age);
+        new Dog(name,kind,age);
     }
 
     @Override

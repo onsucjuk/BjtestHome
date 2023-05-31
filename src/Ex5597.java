@@ -27,9 +27,7 @@ public class Ex5597 {
             for (int j = 0; j < a; j++) {
 
                 if (ls[j] == b) {
-
                     ls[j] = 0;
-
                 }
 
             }
@@ -38,9 +36,7 @@ public class Ex5597 {
         for (int k = 0; k<a; k++) {
 
             if (ls[k]!=0) {
-
                 Mm[num] = ls[k];
-
                 num++;
             }
 
@@ -53,8 +49,5 @@ public class Ex5597 {
             System.out.println(Mm[p]);
 
         }
-
-
     }
-
 }

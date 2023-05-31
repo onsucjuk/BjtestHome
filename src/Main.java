@@ -1,49 +1,44 @@
 import java.util.Scanner;
+import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        int[] arr = new int[5];
+        int hap = 0;
 
-        int a = 42;
-        int b = 10;
-        int num = 0;
+        String s = sc.nextLine();
+        StringTokenizer st = new StringTokenizer(s,", ");
 
-        int[] arr = new int[10];
-
-        for (int i = 0; i < b; i++) {
-
-            int c = sc.nextInt();
-            arr[i] = c % a;
-
+        for (int i = 0; i < 5; i++) {
+            arr[i] = Integer.parseInt(st.nextToken());
+            hap += arr[i];
         }
 
-        for (int j = 0; j < b; j++) { // 나머지가 0일 경우 처리해야됌.
-
-            for (int k = 0; k < b; k++) {
-
-                if (arr[j] == arr[k]) {
-
-                    num++;
-
-                }
-
+        for (int j = arr.length-1; j > 0 ; j--){
+        for (int i = 0; i < j; i++) {
+            int temp = arr[i];
+            if (arr[i] > arr[i + 1]) {
+                arr[i] = arr[i + 1];
+                arr[i+1] = temp;
             }
-
+        }
         }
 
+        int min = arr[0];
+        int max = arr[arr.length-1];
+        int avg = hap / arr.length;
 
-        if (num == b) {
 
-            System.out.println(num);
+/*        for(int i = 0; i < 5; i++) {
 
-        } else if (num > b) {
+            int a = sc.nextInt();
+            arr[i] = a;
 
-            int diff = ((2 * b) - num);
-            System.out.println(diff);
+        }*/
 
-        }
+        System.out.println("가장 큰 값 : " + max + " / 가장 작은 값 : " + min + " / 평균 값 : " + avg);
 
     }
 }
-

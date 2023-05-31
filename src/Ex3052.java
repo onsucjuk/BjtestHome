@@ -15,19 +15,18 @@ public class Ex3052 {
 
         for (int i = 0; i < b; i++) {
 
-            int c = sc.nextInt();
-            arr[i] = c % a;
+            arr[i] = sc.nextInt() % a;
 
         }
 
-        for (int j = 0; j < b; j++) {
+        for (int j = 0; j < arr.length; j++) {
 
             num = 0;
 
             if (arr[j] != 0) {
 
 
-                for (int k = 0; k < b; k++) {
+                for (int k = 0; k < arr.length; k++) {
 
                     if ((arr[j] == arr[k]) && num == 0) {
 
@@ -48,6 +47,8 @@ public class Ex3052 {
                 zero = 1;
 
             }
+
+
         }
 
         System.out.println(count + zero);
