@@ -1,8 +1,12 @@
 package InheritancePRC;
 
 public class Child01 extends Parent01 {
-    public Child01() {
-        System.out.print("D");
+
+    String className = "Child Class";
+    @Override
+    public void info(){
+        super.info();
+        System.out.println(className);
     }
 
     @Override

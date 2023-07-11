@@ -1,8 +1,10 @@
 package InheritancePRC;
 
 class Parent01 {
-    public Parent01() {
-        System.out.print("A");
+
+    String className = "Parent Class";
+    public void info() {
+        System.out.println(className);
     }
 
     public void fn() {
