@@ -1,20 +1,11 @@
 package Homework.Inheritance;
 
 public class Parent {
-    public int cal(int a, int b){
-        return a + b;
+    public Parent(){
+        System.out.print("A");
     }
-
-    public class Child extends Parent {
-        @Override
-        public int cal(int a, int b){
-            return a / b;
-        }
-        
-        //Overload
-        public int cal(int a, int b, int c){
-            return a + b + c;
-        }
+    public Parent(int a){
+        System.out.print("B");
     }
 }
 
