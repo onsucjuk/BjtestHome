@@ -1,44 +1,37 @@
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
 public class Main {
+
+/*    public static String solution(int a) {
+
+        if (a % 2 == 0) {
+            return "짝수";
+        } else {
+            return "홀수";
+        }
+
+    }*/
     public static void main(String[] args) {
 
+
+
+/*        String anw = solution(4);
+
+        System.out.println(anw);*/
+
         Scanner sc = new Scanner(System.in);
-        int[] arr = new int[5];
-        int hap = 0;
 
-        String s = sc.nextLine();
-        StringTokenizer st = new StringTokenizer(s,", ");
+        int num = sc.nextInt();
 
-        for (int i = 0; i < 5; i++) {
-            arr[i] = Integer.parseInt(st.nextToken());
-            hap += arr[i];
+        if(num==0) {
+            System.out.println("0");
         }
-
-        for (int j = arr.length-1; j > 0 ; j--){
-        for (int i = 0; i < j; i++) {
-            int temp = arr[i];
-            if (arr[i] > arr[i + 1]) {
-                arr[i] = arr[i + 1];
-                arr[i+1] = temp;
-            }
+        else if(num%2==0) {
+            System.out.println("짝수");
+        } else {
+            System.out.println("홀수");
         }
-        }
-
-        int min = arr[0];
-        int max = arr[arr.length-1];
-        int avg = hap / arr.length;
-
-
-/*        for(int i = 0; i < 5; i++) {
-
-            int a = sc.nextInt();
-            arr[i] = a;
-
-        }*/
-
-        System.out.println("가장 큰 값 : " + max + " / 가장 작은 값 : " + min + " / 평균 값 : " + avg);
 
     }
+
 }

@@ -18,6 +18,4 @@ public class Ex23101 {
         //Static 클래스의 b는 static 이기 때문에 따로 객체 선언을 하지 않아도 호출 가능
         // 그러므로 new로 객체 생성한 st의 경우 st.a 혹은 st.b로 호출 가능
     }
-
-
 }

@@ -4,28 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9109afd4-77a1-4a6a-9ee5-0e28828b7ddd" name="Changes" comment="05.29 잔디심기&#10;백준 1920번&#10;입력값을 확인할 정수를 입력 받고&lt;집합A&gt;&#10;다음 입력 값들이 &lt;집합A&gt;에 포함되어있는지 확인&#10;포함시 1, 미포함시 0 출력&#10;&#10;스캔 Scanner&#10;중복 제거 HashSet 활용&lt;집합A는 중복 필요 X&gt;&#10;포함 여부 .contains 메서드 활용">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BjtestHome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BjAlgorithm/impl/Ex_2577.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex10871.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_X_star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_nonedup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_nonedup2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_scanmu35tiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_staronef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_startri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/Ex_14725.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex3052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3052.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex5597.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5597.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_11654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_11654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Ex_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Ex_Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Puppy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Puppy.java" afterDir="false" />
+    <list default="true" id="9109afd4-77a1-4a6a-9ee5-0e28828b7ddd" name="Changes" comment="0804 잔디심기">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BjAlgorithm/impl/Ex15740.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BjAlgorithm/impl/Ex15740_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BjAlgorithm/impl/Ex2525.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex14681.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex25304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2884.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex8393.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex9498.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/Ex/Ex23101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Ex/Ex23101.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,28 +58,34 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/SpringJpaJdk17Template&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="gptCodingTest" />
       <recent name="Homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex_2577">
-    <configuration name="Ex_14725" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Ex_14725" />
+  <component name="RunManager" selected="Application.Ex06">
+    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gptCodingTest.Ex02" />
       <module name="BjtestHome" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.*" />
+          <option name="PATTERN" value="gptCodingTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Ex_1920" />
+    <configuration name="Ex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gptCodingTest.Ex03" />
       <module name="BjtestHome" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.*" />
+          <option name="PATTERN" value="gptCodingTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,8 +106,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BjAlgorithm.impl.Ex_2577" />
+    <configuration name="Ex04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gptCodingTest.Ex04" />
+      <module name="BjtestHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gptCodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gptCodingTest.Ex05" />
+      <module name="BjtestHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gptCodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gptCodingTest.Ex06" />
+      <module name="BjtestHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gptCodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_10808" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BjAlgorithm.impl.Ex_10808" />
       <module name="BjtestHome" />
       <extension name="coverage">
         <pattern>
@@ -115,39 +158,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Ex_2750" />
-      <module name="BjtestHome" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pt_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Pt_StringBuilder" />
-      <module name="BjtestHome" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Ex_10808" />
+      <item itemvalue="Application.Ex02" />
+      <item itemvalue="Application.Ex03" />
+      <item itemvalue="Application.Ex04" />
+      <item itemvalue="Application.Ex05" />
+      <item itemvalue="Application.Ex06" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex_2577" />
-        <item itemvalue="Application.Ex_1920" />
-        <item itemvalue="Application.Ex_2750" />
-        <item itemvalue="Application.Pt_StringBuilder" />
-        <item itemvalue="Application.Ex_14725" />
+        <item itemvalue="Application.Ex06" />
+        <item itemvalue="Application.Ex05" />
+        <item itemvalue="Application.Ex04" />
+        <item itemvalue="Application.Ex03" />
+        <item itemvalue="Application.Ex02" />
       </list>
     </recent_temporary>
   </component>
@@ -195,98 +220,50 @@
       <workItem from="1685004825762" duration="7733000" />
       <workItem from="1685098466305" duration="770000" />
       <workItem from="1685353130285" duration="1337000" />
-      <workItem from="1685521902733" duration="2282000" />
-    </task>
-    <task id="LOCAL-00001" summary="bj10871">
-      <created>1679185589297</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1679185589297</updated>
-    </task>
-    <task id="LOCAL-00002" summary="bj10871">
-      <created>1679188326665</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1679188326665</updated>
-    </task>
-    <task id="LOCAL-00003" summary="bj10871">
-      <created>1679188740198</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1679188740199</updated>
-    </task>
-    <task id="LOCAL-00004" summary="bj10871">
-      <created>1679722311580</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1679722311580</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Bjex5597 ver2">
-      <created>1679722875758</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1679722875758</updated>
-    </task>
-    <task id="LOCAL-00006" summary="BjEx 3052 ing">
-      <created>1679796515081</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1679796515081</updated>
-    </task>
-    <task id="LOCAL-00007" summary="BjEx 3052">
-      <created>1679837136193</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1679837136193</updated>
-    </task>
-    <task id="LOCAL-00008" summary="BjEx 3052ver2">
-      <created>1679837736202</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1679837736202</updated>
-    </task>
-    <task id="LOCAL-00009" summary="BjEx 3052ver3">
-      <created>1679839552144</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1679839552144</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Ex of college">
-      <created>1680258845598</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1680258845598</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Ex 11654">
-      <created>1680309028752</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1680309028752</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Ex 11720">
-      <created>1680424629601</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1680424629601</updated>
-    </task>
-    <task id="LOCAL-00013" summary="While문 하나로 구구단 만들기">
-      <created>1680672599089</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1680672599089</updated>
+      <workItem from="1685521902733" duration="3146000" />
+      <workItem from="1685620044461" duration="2000" />
+      <workItem from="1685763996549" duration="163000" />
+      <workItem from="1685847988644" duration="1282000" />
+      <workItem from="1686045895752" duration="1084000" />
+      <workItem from="1686220380159" duration="1684000" />
+      <workItem from="1686655217466" duration="833000" />
+      <workItem from="1686904858886" duration="2067000" />
+      <workItem from="1687046811485" duration="873000" />
+      <workItem from="1687181387188" duration="189000" />
+      <workItem from="1687345278378" duration="231000" />
+      <workItem from="1687568063476" duration="985000" />
+      <workItem from="1688027258141" duration="317000" />
+      <workItem from="1688109933110" duration="1372000" />
+      <workItem from="1688635652933" duration="464000" />
+      <workItem from="1688637280371" duration="1879000" />
+      <workItem from="1689076901198" duration="62000" />
+      <workItem from="1689137708504" duration="467000" />
+      <workItem from="1689243168378" duration="413000" />
+      <workItem from="1689340417496" duration="521000" />
+      <workItem from="1689377159625" duration="781000" />
+      <workItem from="1689402585349" duration="1371000" />
+      <workItem from="1689585909184" duration="439000" />
+      <workItem from="1689665057244" duration="555000" />
+      <workItem from="1689725955729" duration="233000" />
+      <workItem from="1689758243353" duration="955000" />
+      <workItem from="1689834064221" duration="189000" />
+      <workItem from="1689938012888" duration="789000" />
+      <workItem from="1690188987152" duration="873000" />
+      <workItem from="1690282313128" duration="2386000" />
+      <workItem from="1690368720417" duration="569000" />
+      <workItem from="1690448414900" duration="3772000" />
+      <workItem from="1690493078639" duration="130000" />
+      <workItem from="1690808491843" duration="90000" />
+      <workItem from="1690880084233" duration="270000" />
+      <workItem from="1690975543857" duration="775000" />
+      <workItem from="1691059047930" duration="904000" />
+      <workItem from="1691144618207" duration="1030000" />
+      <workItem from="1698395488657" duration="189000" />
+      <workItem from="1704973875028" duration="1796000" />
+      <workItem from="1708917900495" duration="656000" />
+      <workItem from="1712123438238" duration="28000" />
+      <workItem from="1725100145582" duration="5032000" />
+      <workItem from="1725145014530" duration="3876000" />
     </task>
     <task id="LOCAL-00014" summary="입력값 분해 정렬 후 최소값 최대값 평균값 구하기">
       <created>1681210822893</created>
@@ -407,38 +384,266 @@
       <option name="project" value="LOCAL" />
       <updated>1685353861352</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="05.31 잔디심기&#10;3개의 정수의 곱을 도출하고 각 자리수에 0~9&#10;등장 횟수(빈도수)를 각각 출력하시오.&#10;첫줄0~마지막줄9의 빈도 출력&#10;입력 : Scanner&#10;출력 : System.out.println&#10;자리수 분할 : .charAt()활용 &#10; &amp; String(Integer을 활용해서 받음)&#10;빈도수 : Collections.frequecy &amp;&#10; HashMap 활용">
+      <created>1685524728045</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1685524728045</updated>
+    </task>
+    <task id="LOCAL-00032" summary="06.06 잔디심기&#10;문자 입력 받고 알파뱃 등장 횟수 출력&#10;배열 활용&#10;[26크기]&#10;a-97 = idx [0]&#10;출력 : for each 활용">
+      <created>1686046988655</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1686046988655</updated>
+    </task>
+    <task id="LOCAL-00033" summary="06.08 잔디심기&#10;중복 제거 후 빈도수와 함께 출력&#10;빈도수 높을 수록 먼저 출력&#10;중복 제거 : HashSet&#10;빈도수 저장 : Map, LinkedList 활용&#10;정렬 : Collections.sort + 람다식()-&gt;...&#10;빈도수 : Collections.frequency">
+      <created>1686222071271</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1686222071271</updated>
+    </task>
+    <task id="LOCAL-00034" summary="06.13 잔디심기&#10;Interface Practice">
+      <created>1686656037523</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1686656037523</updated>
+    </task>
+    <task id="LOCAL-00035" summary="06.16 잔디심기&#10;String Method&#10;startsWith&#10;endsWith&#10;indexOf&#10;lastIndexOf&#10;length()">
+      <created>1686913727963</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1686913727963</updated>
+    </task>
+    <task id="LOCAL-00036" summary="06.19 잔디심기&#10;String Method&#10;equals&#10;return">
+      <created>1687181546782</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1687181546782</updated>
+    </task>
+    <task id="LOCAL-00037" summary="06.21 잔디심기&#10;기말 대비&#10;hashset 중복제거&#10;map을 활용한 중복 제거 각각 값 받기&#10;키 값을 기준으로 빈도수 높은 수로 출력&#10;(Collections.sort활용 feat.람다식)">
+      <created>1687345505799</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1687345505799</updated>
+    </task>
+    <task id="LOCAL-00038" summary="0629 잔디심기&#10;Override&#10;Overload">
+      <created>1688027570889</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1688027570889</updated>
+    </task>
+    <task id="LOCAL-00039" summary="0630 잔디심기&#10;배열, 숫자 파라미터로 받아 계산 메서드 생성&#10;배열 입력 받고&#10;배열의 두 수의 합 = 목표값(int)&#10;그 두 수의 index값 배열로 return">
+      <created>1688111184017</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1688111184017</updated>
+    </task>
+    <task id="LOCAL-00040" summary="0706 잔디심기&#10;생성자 메서드 구동 로직 확인">
+      <created>1688636102655</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1688636102655</updated>
+    </task>
+    <task id="LOCAL-00041" summary="0706 잔디심기&#10;생성자 메서드 구동 로직 확인">
+      <created>1688636111981</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1688636111982</updated>
+    </task>
+    <task id="LOCAL-00042" summary="0711 잔디심기&#10;상속&#10;{}&#10;지역 변수 확인하기">
+      <created>1689076958315</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1689076958315</updated>
+    </task>
+    <task id="LOCAL-00043" summary="0712 잔디심기&#10;메서드 활용해서 정렬해보기">
+      <created>1689138173603</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1689138173603</updated>
+    </task>
+    <task id="LOCAL-00044" summary="0713 잔디심기&#10;10진수 2진수로 출력">
+      <created>1689243580245</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1689243580245</updated>
+    </task>
+    <task id="LOCAL-00045" summary="0714 잔디심기&#10;static&#10;메모리에 올라감&#10;전역 변수">
+      <created>1689340883282</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1689340883282</updated>
+    </task>
+    <task id="LOCAL-00046" summary="0715 잔디심기&#10;상속 메서드 구동 원리 파악&#10;생성자&#10;new 타입 기본생성 Child() Parent()&#10;의 경우 생성자 호출&#10;생성자 new Child()의 경우&#10;Parent() 먼저 이후 Child() 실행&#10;&#10;메서드 &#10;Parent a = new Child(int a)&#10;&#10;Child에 int a를 파라미터로 받는&#10;메서드 존재시 Child(int a) 실행&#10;없을 경우 Parent(int a) 실행&#10;&#10;만약 Parent 타입으로 선언 후 &#10;Child 클래스에만 존재하는 메서드 사용시&#10;오류 발생한다. 이 경우 부모 클래스에&#10;정의 되고 Child 클래스에 Override&#10;된 메서드만 사용 가능">
+      <created>1689377905593</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1689377905593</updated>
+    </task>
+    <task id="LOCAL-00047" summary="0715 잔디심기&#10;상속 메서드 구동 원리 파악&#10;생성자&#10;new 타입 기본생성 Child() Parent()&#10;의 경우 생성자 호출&#10;생성자 new Child()의 경우&#10;Parent() 먼저 이후 Child() 실행&#10;&#10;메서드 &#10;Parent a = new Child(int a)&#10;&#10;Child에 int a를 파라미터로 받는&#10;메서드 존재시 Child(int a) 실행&#10;없을 경우 Parent(int a) 실행&#10;&#10;만약 Parent 타입으로 선언 후 &#10;Child 클래스에만 존재하는 메서드 사용시&#10;오류 발생한다. 이 경우 부모 클래스에&#10;정의 되고 Child 클래스에 Override&#10;된 메서드만 사용 가능">
+      <created>1689377914416</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1689377914416</updated>
+    </task>
+    <task id="LOCAL-00048" summary="0717 잔디심기&#10;생성자 메서드(Parent)&#10;this(500); == Parent(500);&#10;&#10;생성자 메서드(Child)&#10;this(5000); == Child (5000);">
+      <created>1689586131707</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1689586131707</updated>
+    </task>
+    <task id="LOCAL-00049" summary="0718 잔디심기&#10;배열의 값 출력하기">
+      <created>1689665607705</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1689665607705</updated>
+    </task>
+    <task id="LOCAL-00050" summary="0719 잔디심기&#10;피보나치 수열 만들기">
+      <created>1689726184577</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1689726184577</updated>
+    </task>
+    <task id="LOCAL-00051" summary="0720 잔디심기&#10;0~5까지의 합 출력">
+      <created>1689834248460</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1689834248461</updated>
+    </task>
+    <task id="LOCAL-00052" summary="0721 잔디심기&#10;2진수 10진수로 변환">
+      <created>1689938744404</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1689938744404</updated>
+    </task>
+    <task id="LOCAL-00053" summary="0724 잔디심기&#10;문자열 비교">
+      <created>1690189861531</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1690189861532</updated>
+    </task>
+    <task id="LOCAL-00054" summary="0725 잔디심기&#10;크기 n의 배열 만드는 메서드&#10;배열 왼쪽n칸씩 시프트 후 출력하는 메서드&#10;메서드 활용해서 배열 내용 출력">
+      <created>1690284639866</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1690284639867</updated>
+    </task>
+    <task id="LOCAL-00055" summary="0726 잔디심기&#10;돈 나누기">
+      <created>1690369266529</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1690369266529</updated>
+    </task>
+    <task id="LOCAL-00056" summary="0727 잔디심기&#10;문자">
+      <created>1690451645702</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1690451645702</updated>
+    </task>
+    <task id="LOCAL-00057" summary="0728 잔디심기&#10;계산 메서드">
+      <created>1690493202295</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1690493202296</updated>
+    </task>
+    <task id="LOCAL-00058" summary="0731 잔디심기">
+      <created>1690808524834</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1690808524834</updated>
+    </task>
+    <task id="LOCAL-00059" summary="0801 잔디심기">
+      <created>1690880240444</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1690880240444</updated>
+    </task>
+    <task id="LOCAL-00060" summary="0802 잔디심기">
+      <created>1690976316726</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1690976316726</updated>
+    </task>
+    <task id="LOCAL-00061" summary="0803 잔디심기">
+      <created>1691060094259</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1691060094259</updated>
+    </task>
+    <task id="LOCAL-00062" summary="0804 잔디심기">
+      <created>1691145655370</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1691145655371</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BjEx 3052 ing" />
-    <MESSAGE value="BjEx 3052" />
-    <MESSAGE value="BjEx 3052ver2" />
-    <MESSAGE value="BjEx 3052ver3" />
-    <MESSAGE value="Ex of college" />
-    <MESSAGE value="Ex 11654" />
-    <MESSAGE value="Ex 11720" />
-    <MESSAGE value="While문 하나로 구구단 만들기" />
-    <MESSAGE value="입력값 분해 정렬 후 최소값 최대값 평균값 구하기" />
-    <MESSAGE value="입력값 &quot;, &quot; 단위로 분해&#10;인트 높은 순서로 정렬(중복 허용)&#10;버블 정렬" />
-    <MESSAGE value="2023.04.21 잔디심기&#10;백준 2753번&#10;윤년 구하기" />
-    <MESSAGE value="2023.04.25 잔디심기&#10;&#10;입력 값 Scanner로 받아서&#10;해당 줄 수 (홀수) 만큼 마름모 찍기" />
-    <MESSAGE value="2023.04.27 잔디심기&#10;&#10;30명 중 28명만 과제를 냈다고했을 때&#10;안낸 학생번호 구하기&#10;(학생 번호는 1~30번까지 존재)&#10;array[30]으로 받아서 빈칸 추축" />
-    <MESSAGE value="2023.05.01 잔디심기&#10;&#10;백준 10988번&#10;뒤집어도 같은 단어면 1출력 아니면 0출력" />
-    <MESSAGE value="2023.05.02 잔디심기&#10;Linkedlist 활용 입력값 정렬" />
-    <MESSAGE value="2023.05.05 잔디심기&#10;자바 스트링 메서드 복습&#10;Scanner를 활용해서 변경을 할 문자열을 받고&#10;검색 문자, 변환 문자 등을 입력받아서 스트링 메서드들&#10;연습해보았습니다." />
-    <MESSAGE value="2023.05.10 잔디심기&#10;Dog(부모클래스) 와 Puppy(자식클래스)를 상속해서 &#10;오버라이딩으로 울음소리를 변경해보았습니다." />
-    <MESSAGE value="2023.05.18 잔디심기&#10;상속&#10;덧셈 -&gt; 곱하기&#10;출력해보기" />
-    <MESSAGE value="2023.05.19 잔디심기&#10;stack 구현해보기&#10;백준 10828번&#10;첫줄 명령어 횟수 받아서 이후 stack 명령어들 수행&#10;자료 구조 stack 직접 구현해 봄" />
-    <MESSAGE value="백준 10773&#10;스택 pop push 활용 후&#10;남은 스택의 값의 합 구하기" />
-    <MESSAGE value="백준 4949&#10;여러 문자와 '(' '[' 두 종류의 괄호가 주어지는데&#10;'('')''['']'와 같이 괄호가 쌍으로 이뤄져야함&#10;문장이 쌍으로 이루어져있다면 yes&#10;아니라면 no 출력&#10;백준 9012번 변형 문제&#10;스택 내용이 길어서 메서드로 선언해서 사용" />
-    <MESSAGE value="05.24 잔디심기&#10;Animal 인터페이스 구현&#10;Dog 클래스로 Animal 인터페이스 implements&#10;DogImple 클래스에서 위 구현된 메서드 사용" />
-    <MESSAGE value="05.25 잔디심기&#10;StringBuilder &#10;글자와 글자를 이어줌&#10;기존 String은 하나의 문자열을 다른 문자열과 연결하면 새 문자열이 생성되고 이전 문자열은 가비지 컬렉터로 들어간다.&#10;StringBuilder는 변경 가능한 문자열을 만들어 주기 때문에, String을 합치는 작업 시 하나의 대안이 될 수 있다." />
-    <MESSAGE value="05.26 잔디심기&#10;백준 2750번&#10;정수를 입력받아서 중복을 제거 후 출력&#10;스캔 Scanner&#10;중복 제거 HashSet 활용&#10;정렬 Collections.sort와 ArrayList활용&#10;출력 foreach문 활용" />
-    <MESSAGE value="05.29 잔디심기&#10;백준 1920번&#10;입력값을 확인할 정수를 입력 받고&lt;집합A&gt;&#10;다음 입력 값들이 &lt;집합A&gt;에 포함되어있는지 확인&#10;포함시 1, 미포함시 0 출력&#10;&#10;스캔 Scanner&#10;중복 제거 HashSet 활용&lt;집합A는 중복 필요 X&gt;&#10;포함 여부 .contains 메서드 활용" />
-    <option name="LAST_COMMIT_MESSAGE" value="05.29 잔디심기&#10;백준 1920번&#10;입력값을 확인할 정수를 입력 받고&lt;집합A&gt;&#10;다음 입력 값들이 &lt;집합A&gt;에 포함되어있는지 확인&#10;포함시 1, 미포함시 0 출력&#10;&#10;스캔 Scanner&#10;중복 제거 HashSet 활용&lt;집합A는 중복 필요 X&gt;&#10;포함 여부 .contains 메서드 활용" />
+    <MESSAGE value="06.19 잔디심기&#10;String Method&#10;equals&#10;return" />
+    <MESSAGE value="06.21 잔디심기&#10;기말 대비&#10;hashset 중복제거&#10;map을 활용한 중복 제거 각각 값 받기&#10;키 값을 기준으로 빈도수 높은 수로 출력&#10;(Collections.sort활용 feat.람다식)" />
+    <MESSAGE value="0629 잔디심기&#10;Override&#10;Overload" />
+    <MESSAGE value="0630 잔디심기&#10;배열, 숫자 파라미터로 받아 계산 메서드 생성&#10;배열 입력 받고&#10;배열의 두 수의 합 = 목표값(int)&#10;그 두 수의 index값 배열로 return" />
+    <MESSAGE value="0706 잔디심기&#10;생성자 메서드 구동 로직 확인" />
+    <MESSAGE value="0711 잔디심기&#10;상속&#10;{}&#10;지역 변수 확인하기" />
+    <MESSAGE value="0712 잔디심기&#10;메서드 활용해서 정렬해보기" />
+    <MESSAGE value="0713 잔디심기&#10;10진수 2진수로 출력" />
+    <MESSAGE value="0714 잔디심기&#10;static&#10;메모리에 올라감&#10;전역 변수" />
+    <MESSAGE value="0715 잔디심기&#10;상속 메서드 구동 원리 파악&#10;생성자&#10;new 타입 기본생성 Child() Parent()&#10;의 경우 생성자 호출&#10;생성자 new Child()의 경우&#10;Parent() 먼저 이후 Child() 실행&#10;&#10;메서드 &#10;Parent a = new Child(int a)&#10;&#10;Child에 int a를 파라미터로 받는&#10;메서드 존재시 Child(int a) 실행&#10;없을 경우 Parent(int a) 실행&#10;&#10;만약 Parent 타입으로 선언 후 &#10;Child 클래스에만 존재하는 메서드 사용시&#10;오류 발생한다. 이 경우 부모 클래스에&#10;정의 되고 Child 클래스에 Override&#10;된 메서드만 사용 가능" />
+    <MESSAGE value="0717 잔디심기&#10;생성자 메서드(Parent)&#10;this(500); == Parent(500);&#10;&#10;생성자 메서드(Child)&#10;this(5000); == Child (5000);" />
+    <MESSAGE value="0718 잔디심기&#10;배열의 값 출력하기" />
+    <MESSAGE value="0719 잔디심기&#10;피보나치 수열 만들기" />
+    <MESSAGE value="0720 잔디심기&#10;0~5까지의 합 출력" />
+    <MESSAGE value="0721 잔디심기&#10;2진수 10진수로 변환" />
+    <MESSAGE value="0724 잔디심기&#10;문자열 비교" />
+    <MESSAGE value="0725 잔디심기&#10;크기 n의 배열 만드는 메서드&#10;배열 왼쪽n칸씩 시프트 후 출력하는 메서드&#10;메서드 활용해서 배열 내용 출력" />
+    <MESSAGE value="0726 잔디심기&#10;돈 나누기" />
+    <MESSAGE value="0727 잔디심기&#10;문자" />
+    <MESSAGE value="0728 잔디심기&#10;계산 메서드" />
+    <MESSAGE value="0731 잔디심기" />
+    <MESSAGE value="0801 잔디심기" />
+    <MESSAGE value="0802 잔디심기" />
+    <MESSAGE value="0803 잔디심기" />
+    <MESSAGE value="0804 잔디심기" />
+    <option name="LAST_COMMIT_MESSAGE" value="0804 잔디심기" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
