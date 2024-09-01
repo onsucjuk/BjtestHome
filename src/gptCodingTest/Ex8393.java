@@ -7,6 +7,9 @@ public class Ex8393 {
         Scanner sc = new Scanner(System.in);
 
         int number = sc.nextInt();
+
+        sc.close();
+
         int sum = 0;
 
         for(int i = 1; i <= number; i++) {

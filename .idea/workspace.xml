@@ -5,26 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9109afd4-77a1-4a6a-9ee5-0e28828b7ddd" name="Changes" comment="0804 잔디심기">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BjAlgorithm/impl/Ex15740.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BjAlgorithm/impl/Ex15740_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BjAlgorithm/impl/Ex2525.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex14681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex25304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2884.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex8393.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex9498.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex1546.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2577.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex3052.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Ex/Ex23101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Ex/Ex23101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gptCodingTest/Ex1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex1000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gptCodingTest/Ex10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex10950.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gptCodingTest/Ex1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex1330.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gptCodingTest/Ex14681.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex14681.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gptCodingTest/Ex25304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex25304.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gptCodingTest/Ex2739.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2739.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gptCodingTest/Ex2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gptCodingTest/Ex2884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex2884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gptCodingTest/Ex8393.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex8393.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gptCodingTest/Ex9498.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptCodingTest/Ex9498.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,33 +75,7 @@
       <recent name="Homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex06">
-    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gptCodingTest.Ex02" />
-      <module name="BjtestHome" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gptCodingTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gptCodingTest.Ex03" />
-      <module name="BjtestHome" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gptCodingTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex1546">
     <configuration name="Ex04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gptCodingTest.Ex04" />
       <module name="BjtestHome" />
@@ -145,6 +115,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gptCodingTest.Ex1546" />
+      <module name="BjtestHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gptCodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gptCodingTest.Ex2577" />
+      <module name="BjtestHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gptCodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex_10808" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BjAlgorithm.impl.Ex_10808" />
       <module name="BjtestHome" />
@@ -160,19 +156,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Ex_10808" />
-      <item itemvalue="Application.Ex02" />
-      <item itemvalue="Application.Ex03" />
+      <item itemvalue="Application.Ex1546" />
+      <item itemvalue="Application.Ex2577" />
       <item itemvalue="Application.Ex04" />
       <item itemvalue="Application.Ex05" />
       <item itemvalue="Application.Ex06" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1546" />
+        <item itemvalue="Application.Ex2577" />
         <item itemvalue="Application.Ex06" />
         <item itemvalue="Application.Ex05" />
         <item itemvalue="Application.Ex04" />
-        <item itemvalue="Application.Ex03" />
-        <item itemvalue="Application.Ex02" />
       </list>
     </recent_temporary>
   </component>
@@ -263,14 +259,7 @@
       <workItem from="1708917900495" duration="656000" />
       <workItem from="1712123438238" duration="28000" />
       <workItem from="1725100145582" duration="5032000" />
-      <workItem from="1725145014530" duration="3876000" />
-    </task>
-    <task id="LOCAL-00014" summary="입력값 분해 정렬 후 최소값 최대값 평균값 구하기">
-      <created>1681210822893</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1681210822893</updated>
+      <workItem from="1725145014530" duration="8416000" />
     </task>
     <task id="LOCAL-00015" summary="입력값 &quot;, &quot; 단위로 분해&#10;인트 높은 순서로 정렬(중복 허용)&#10;버블 정렬">
       <created>1681807552017</created>
@@ -608,7 +597,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691145655371</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="0804 잔디심기">
+      <created>1725149179481</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1725149179482</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

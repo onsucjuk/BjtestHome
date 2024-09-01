@@ -11,6 +11,8 @@ public class Ex1000 {
         int num1 = sc.nextInt();
         int num2 = sc.nextInt();
 
+        sc.close();
+
         System.out.println(num1 + num2);
 
     }

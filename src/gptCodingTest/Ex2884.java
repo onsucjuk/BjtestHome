@@ -10,6 +10,8 @@ public class Ex2884 {
         int num1 = sc.nextInt();
         int num2 = sc.nextInt();
 
+        sc.close();
+
         if (num1==0) {
             if(num2 >= 45) {
                 num2 -= 45;

@@ -16,6 +16,8 @@ public class Ex25304 {
             sum += price*cnt;
         }
 
+        sc.close();
+
         if(sum==total) {
             System.out.println("Yes");
         } else {

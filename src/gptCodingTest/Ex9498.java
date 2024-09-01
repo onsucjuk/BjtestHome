@@ -7,6 +7,7 @@ public class Ex9498 {
 
         Scanner sc = new Scanner(System.in);
         int point = sc.nextInt();
+        sc.close();
 
         if(point>=90) {
             System.out.println("A");
